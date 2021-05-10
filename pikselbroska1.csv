@@ -1,0 +1,9 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,èip/,DIP-8_W7.62mm,1,ATtiny85V-10PU,https://si.farnell.com/harwin/d2608-42/socket-ic-solderless-8way/dp/1023046
+2,èip,DIP 8,1,ATtiny85V-10PU,http://b2c.hte.si/izdelek/21385/AT-TINY-85-20PU-DIP8
+3,R 1-5,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,5,100,http://b2c.hte.si/izdelek/17161/UPOR-1-4W-100R-5-0207-LeadPbfree
+4,LED 1-20,5mm,20,,http://b2c.hte.si/
+5,St1,SW_SPDT_CK-JS102011SAQN,1,SW_DIP_x01,https://si.farnell.com/c-k-components/js102011saqn/switch-spdt-0-6a-6vdc-side-smd/dp/2320017?st=js102011saqn
+6,Baterija,CR2032H,1,BT1,https://si.farnell.com/varta/6032101501/cell-lithium-cr2032-230mah-3v/dp/300445?st=cr2032
+7,Baterija ohišje,CR2032H,1,BT1,https://si.farnell.com/multicomp-pro/mp000362/battery-holder-2032-through-hole/dp/3126601
+8,ISP,PINHEAD1-6,1,6 pin connector ISP,http://b2c.hte.si/izdelek/6343/LETVICA-M-40P-ENOJNA-RoHS
