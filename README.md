@@ -1,4 +1,4 @@
 # pixl-brooch-
 Wearable_led_matrix_display
-Programming ATtiny with Arduino Uno as ISP: 
+Viri:
 https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
