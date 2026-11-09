@@ -22,6 +22,12 @@ Its visible circuitry is part of the work. The grid of individual LEDs gives dig
 
 Pixl Broška was the first workshop developed within the Maribor part of the konS platform. The first documented online edition took place in December 2020, when participants received material kits at home. Later workshops brought the project to students, children, young people, and adult beginners in Maribor, Novo Mesto, Velenje, Zagreb, and other konS partner locations.
 
+## Inspiration & Acknowledgements
+
+Pixl Broška was inspired by **benbrandt22** and the Instructables project [*Creating a Charlieplexed LED Grid to Run on ATTiny85*](https://www.instructables.com/Creating-a-charlieplexed-LED-grid-to-run-on-ATTiny/). Building on that generous sharing of knowledge, design, code, and inspiration, **monitronica** redesigned and created a new PCB, adapted and modified parts of the original code, and developed a distinct wearable artistic interpretation of the project.
+
+Warm thanks to [benbrandt22](https://www.instructables.com/member/benbrandt22/) for making the original project available to fellow makers. No text, photographs, or other media from the Instructables page are reproduced here; the original material remains subject to the copyright and licensing terms of its author and source platform.
+
 ## How Pixl Broška works
 
 The brooch uses an **ATtiny85V**, a low-power 8-bit AVR microcontroller, to control a matrix of **twenty 5 mm LEDs** arranged as four columns by five rows.
